@@ -1,0 +1,21 @@
+{
+  "name": "test-coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "ngo-duc-manh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "class-transformer": "^0.5.1",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.0",
+    "mysql2": "^3.9.2",
+    "nodemon": "^3.1.0",
+    "reflect-metadata": "^0.2.1"
+  }
+}
